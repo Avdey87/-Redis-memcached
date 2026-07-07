@@ -12,8 +12,8 @@
 
 # Задание 2. Memcached
 Установите и запустите memcached.
-
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
+[status memcached](https://github.com/Avdey87/-Redis-memcached/blob/main/Memcahed.jpg)
 
 # Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
